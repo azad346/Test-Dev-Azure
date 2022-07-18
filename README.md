@@ -1,11 +1,6 @@
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
-# Creating a Pull request 
-
-Using this as example in Azure DevOps
-Added second line for the same Azure DevOPs class Pull request
-
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
